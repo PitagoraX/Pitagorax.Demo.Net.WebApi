@@ -1,7 +1,7 @@
 # Pitagorax.Demo.Net.WebApi
 Ejemplo básico de implementación de un WebApi de operaciones CRUD con .Net Core C# en Visual Studio 2019
 
-![](https://lh3.googleusercontent.com/KhY28aTw30hEJXooMF-_rQqwMIIqofFvasbZJtEpvlgHQwLXKP3KW0OoCTtoYpDNn_U=w128) [Accede al video tutorial del ejemplo](https://www.youtube.com/watch?v=g9vQMeXiJ8Y)
+![](https://lh3.googleusercontent.com/KhY28aTw30hEJXooMF-_rQqwMIIqofFvasbZJtEpvlgHQwLXKP3KW0OoCTtoYpDNn_U=w128 = 50x) [Accede aquí al video tutorial del ejemplo](https://www.youtube.com/watch?v=g9vQMeXiJ8Y)
 
 
 # Instalación
