@@ -8,10 +8,11 @@ Ejemplo básico de implementación de un WebApi de operaciones CRUD con C# en Vi
 4. Se abrirá una ventana del navegador que carga la interfaz de Swagger para poder interactuar con nuestro WebApi de manera sencilla.
 
 
-![Swagger](images/swagger.png)
+![Swagger](https://github.com/PitagoraX/Pitagorax.Demo.WebApi/blob/main/Images/Swagger.png)
 
 # Contacto
-Web: [Pitagorax](https://www.pitagorax.com)
+Web: [Pitagorax.com](https://www.pitagorax.com)
+
 Email: hello@pitagorax.com
 
 
