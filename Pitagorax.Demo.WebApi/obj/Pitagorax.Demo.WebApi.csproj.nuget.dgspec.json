@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Perkin\\source\\repos\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj": {}
+    "C:\\Users\\Perkin\\Documents\\EJEMPLOS\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Perkin\\source\\repos\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj": {
+    "C:\\Users\\Perkin\\Documents\\EJEMPLOS\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Perkin\\source\\repos\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Perkin\\Documents\\EJEMPLOS\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj",
         "projectName": "Pitagorax.Demo.WebApi",
-        "projectPath": "C:\\Users\\Perkin\\source\\repos\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj",
+        "projectPath": "C:\\Users\\Perkin\\Documents\\EJEMPLOS\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj",
         "packagesPath": "C:\\Users\\Perkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Perkin\\source\\repos\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Perkin\\Documents\\EJEMPLOS\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Perkin\\AppData\\Roaming\\NuGet\\NuGet.Config",

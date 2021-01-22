@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "crfr+u1xOXRMvt8+CuiMfZgbjnkXcledaz465x6o1yG8gSSc+Tv4GojWoHyL9mEWwukxIUQlSs9oGCSIchDvWg==",
+  "dgSpecHash": "bUAcQmhLn/glWxYOAaiAY8ySf/oso6kgKxy7T/WTrT+w6YcaCd0usGmuEBdnADarCHus7+l3tgdxvRUJ2T5jaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Perkin\\source\\repos\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Perkin\\Documents\\EJEMPLOS\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi\\Pitagorax.Demo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Perkin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Perkin\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
